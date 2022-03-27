@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52615918838",
+    "project_id": "excel-and-img-practice",
+    "storage_bucket": "excel-and-img-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52615918838:android:4facc09996897285ba68d7",
+        "android_client_info": {
+          "package_name": "com.example.excel_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52615918838-2sd17h6cakc4i45ockdl81gdnqkpgg21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUkzSKLulBLRSrhtAcHePNnBYBYXqfjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52615918838-2sd17h6cakc4i45ockdl81gdnqkpgg21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
